@@ -13,4 +13,4 @@
 <h1 style="font-size: 40px;">5:<br>Sharing content, assets, or scripts that support any of the above activities is absolutely prohibited, Including soliciting users to contact you for such materials. This list is not exhaustive; you are expected to adhere to all rules at all times</h1>
 <a href="https://discord.gg/vortexian">vortex discord</a></a>
 </body>
-</html>```
+</html>
